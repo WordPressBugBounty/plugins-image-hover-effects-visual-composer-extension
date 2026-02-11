@@ -1,14 +1,14 @@
 === Image Hover Effects For WPBakery Page Builder ===
 Contributors: Labibahmed42
-Tags: css3, hover effects, images, captions, animations, wpbakery, page builder
+Tags: css3, hover effects, images, animations, wpbakery
 Donate link: https://www.paypal.me/labibahmed/5
 Requires at least: 3.5
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enhance your WPBakery Page Builder with Image Hover Effects! Easily add captivating CSS3 hover effects to images with captions, creating engaging animations that captivate visitors.
+Add stylish CSS3 hover effects with captions to images in WPBakery Page Builder. Create engaging animations that enhance your site’s visual appeal.
 
 == Description ==
 
